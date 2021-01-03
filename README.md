@@ -1,5 +1,5 @@
 # notes
-my nots
+my notes
 
 ```
 sudo yum
