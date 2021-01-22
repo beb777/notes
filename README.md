@@ -13,4 +13,9 @@
   - rm pycharm-professional-2017.1.3.tar.gz # remove the packege 
   - cd pycharm-professional-2017.1.3/  # change the directry 
   -  ./bin/pycharm.sh  # run pycharm  
- *
+ *change defult editor either vim or nano something else  
+which vim and add the path in export 
+example    export EDITOR=/usr/bin/vim
+
+  add the line of code in   ~/.bashrc
+`export EDITOR=vim`
