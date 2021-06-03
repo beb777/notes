@@ -2,6 +2,7 @@
 # installation 
 * tar file tar.gz
 ` tar -ztvf filename.tar.gz`  
+` tar -xf filname.tar.xz`
 * Installing OpenJDK
 `dnf search openjdk`  
 `sudo dnf install <openjdk-package-name>`  
